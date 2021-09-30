@@ -79,8 +79,8 @@ hr{
 }
 
 .car img{
-    width: 3rem;
-    height: 3rem;  
+    width: 2.5rem;
+    height: 2rem;  
 }
 
 .navbar-light .navbar-nav .nav-link{
@@ -467,5 +467,6 @@ width: auto;
 .template{
     display: none;
 }
+
 
 
