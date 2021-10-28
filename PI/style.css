@@ -469,4 +469,35 @@ width: auto;
 }
 
 
+#btnSearch,
+#btnClear{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30rem;
+    margin-left: 3rem;
+    color: #fff;
+}
+
+button{
+    
+    height: 3rem;
+    font: 20px "Courier New", Courier, monospace;
+    font-size: 1.2rem;
+    
+}
+
+.form{
+   
+    margin-left: 40%;
+    width: 13rem;
+    height: 5rem;
+    font: 20px "Courier New", Courier, monospace;
+    font-size: 2rem;
+    
+}
+.Login{
+    margin-top: 12%;
+    margin-left: 43%;
+}
+
 
